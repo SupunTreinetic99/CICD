@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054580196054",
+    "project_id": "fir-cicd-d6343",
+    "storage_bucket": "fir-cicd-d6343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054580196054:android:f8124dfa8fe15d93d97f77",
+        "android_client_info": {
+          "package_name": "com.example.cicd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054580196054-sktuqe18r9jdm74mb9l3v03sgu9klk0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3o64zj4uBNKCDhJnbM4Bs1U7RhFrBlFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054580196054-sktuqe18r9jdm74mb9l3v03sgu9klk0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
