@@ -2,7 +2,7 @@ name: Android CI/CD
 
 on:
   push:
-    branches: [ cd ]
+    branches: [ ci/cd ]
 
 jobs:
   build:
